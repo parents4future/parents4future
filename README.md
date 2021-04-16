@@ -14,6 +14,7 @@
     * English: https://twitter.com/parents4future/status/1216131859878481925
     * German: https://twitter.com/parents4future/status/1216131912894492672
     * Spanish: https://twitter.com/parents4future/status/1216131952727797761
+	* Swedish: https://twitter.com/parents4future/status/1383191230411067392
   * English PNG: ![English](/10-basic-facts-for-human-and-planetary-survival-English.png)
   * German PNG: ![German](/10-basic-facts-for-human-and-planetary-survival-German.png)
   * Spanish PNG: ![Spanish](/10-basic-facts-for-human-and-planetary-survival-Spanish.png)

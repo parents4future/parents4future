@@ -17,5 +17,5 @@
   * English PNG: ![English](/10-basic-facts-for-human-and-planetary-survival-English.png)
   * German PNG: ![German](/10-basic-facts-for-human-and-planetary-survival-German.png)
   * Spanish PNG: ![Spanish](/10-basic-facts-for-human-and-planetary-survival-Spanish.png)
-  
+  * Swedish PNG: ![Swedish](/10-basic-facts-for-human-and-planetary-survival-Swedish.png)
   
